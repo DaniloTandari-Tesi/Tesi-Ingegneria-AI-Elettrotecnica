@@ -9,5 +9,5 @@ Questa repository contiene il dataset completo dei prompt utilizzati e i risulta
 
 ## Contenuto della Repository
 * **01_Prompt_Lab_Esercizi.pdf**: Documento contenente i 30 esercizi pratici (Lab) sottoposti alle AI.
-* **02_Prompt_Teoria.pdf**: Documento contenente i 5 quesiti teorici.
+* **02_Prompt_Teoria.pdf**: (In fase di caricamento) Documento contenente i 5 quesiti teorici.
 * **Cartella "Risultati"**: (In fase di caricamento) Conterrà i log completi delle chat con le risposte fornite dai modelli.
