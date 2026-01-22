@@ -1,7 +1,5 @@
 # Materiale Supplementare - Tesi di Laurea
 
-* # Materiale Supplementare - Tesi di Laurea
-
 **Titolo Tesi:** Benchmark di AI Generative per la risoluzione di circuiti di Elettrotecnica
 **Candidato:** Danilo Tandari
 **Corso di Laurea:** Ingegneria Informatica - Università Telematica Internazionale Uninettuno
